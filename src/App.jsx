@@ -1,4 +1,4 @@
-import Index from "./TabFormComponent"
+import Index from "./Pagination"
 
 function App() {
 
