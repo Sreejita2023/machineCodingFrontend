@@ -1,4 +1,4 @@
-import Index from "./NestedCheckboxes"
+import Index from "./AutoComplete"
 
 function App() {
 

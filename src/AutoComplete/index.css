@@ -1,0 +1,19 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    border: 1px solid black;
+    padding-left: 5px;
+    display: flex;
+    flex-direction: column;
+    column-gap: 2px;
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+.recipe:hover{
+    background-color: gainsboro;
+}
