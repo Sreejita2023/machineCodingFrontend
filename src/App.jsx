@@ -1,4 +1,4 @@
-import Index from "./AutoComplete"
+import Index from "./Otp"
 
 function App() {
 
