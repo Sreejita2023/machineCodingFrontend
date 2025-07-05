@@ -1,0 +1,49 @@
+
+
+ const data=[
+    {
+        id:1,
+        name:"Fruits",
+        children:[
+           {
+             id:2,
+             name:"Citrus",
+             children:[
+                {
+                   id:3,
+                   name:"Lemon"
+                },
+                {
+                    id:4,
+                    name:"Orange",
+                    children:[
+                        {
+                            id:8,
+                            name:"Green",
+                        },
+                        {
+                            id:9,
+                            name:"Yellow",
+                        },
+                    ]
+                }
+             ]
+           },
+           {
+            id:5,
+            name:"Tropical",
+            children:[
+                {
+                    id:6,
+                    name:"Mango",
+                }
+            ]
+           },
+           {
+            id:7,
+            name:"Seasonal"
+           }
+        ]
+    }
+]
+export default data

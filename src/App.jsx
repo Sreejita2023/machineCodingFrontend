@@ -1,4 +1,4 @@
-import Index from "./Pagination"
+import Index from "./NestedCheckboxes"
 
 function App() {
 
