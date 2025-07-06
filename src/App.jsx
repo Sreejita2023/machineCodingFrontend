@@ -1,4 +1,4 @@
-import Index from "./ChipsInput"
+import Index from "./Accordion"
 
 function App() {
 
