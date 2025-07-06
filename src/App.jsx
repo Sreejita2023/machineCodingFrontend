@@ -1,4 +1,4 @@
-import Index from "./ProgressBar"
+import Index from "./ChipsInput"
 
 function App() {
 
