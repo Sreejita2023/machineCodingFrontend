@@ -1,4 +1,4 @@
-import Index from "./FileExplorere"
+import Index from "./ProgressBar"
 
 function App() {
 
