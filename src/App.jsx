@@ -1,4 +1,4 @@
-import Index from "./Accordion"
+import Index from "./CountdownTimer"
 
 function App() {
 
