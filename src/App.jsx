@@ -1,4 +1,4 @@
-import Index from "./CountdownTimer"
+import Index from "./ImageCarousel"
 
 function App() {
 
