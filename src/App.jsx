@@ -1,4 +1,4 @@
-import Index from "./ImageCarousel"
+import Index from "./TrafficLight"
 
 function App() {
 
